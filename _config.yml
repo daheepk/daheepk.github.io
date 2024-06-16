@@ -114,8 +114,8 @@ analytics:
 author:
   name             : "박다희"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "성장 중인 개발자입니다."
+  location         : "대한민국, 서울"
   email            :
   links:
     - label: "Email"
