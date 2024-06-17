@@ -5,6 +5,9 @@ categories:
 tags:
   - [python, blog]
 toc: true
+author_profile: true
+sidebar:
+    nav: "sidebar"
 ---
 
 Nested and mixed lists are an interesting beast. It's a corner case to make sure that

@@ -2,12 +2,13 @@
 main:
   - title: "Home"
     url: /
-  - title: "AboutME"
-    url: /about/
   - title: "Category"
     url: /categories/
   - title: "Tag"
     url: /tags/
+  - title: "Search"
+    url: /search/
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -16,3 +17,30 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+# sidebar
+sidebar:
+  - title: "Study"
+    children:
+      - title: "Computer Science"
+        url: /categories/computer-science/
+        category: "Computer Science"
+        grandchildren:
+          - title: "- Algorithm & Data Structure"
+            url: /categories/computer-science/algorithm-concepts/
+            category: "Algorithm Concepts"
+      - title: "Problem Solving"
+        url: /categories/problem-solving/
+        category: "Problem Solving"
+        grandchildren:
+          - title: "- Python"
+            url: /categories/problem-solving/python/
+            category: "Python"
+          - title: "- Java"
+            url: /categories/problem-solving/java/
+            category: "Java"
+  - title: "Project"
+    childeren:
+      - title: "Web Project"
+        url: /categories/webproject/
+        category: "Webproject"
