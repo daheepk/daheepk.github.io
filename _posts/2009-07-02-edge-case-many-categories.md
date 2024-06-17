@@ -1,22 +1,9 @@
 ---
 title: "Edge Case: Many Categories"
 categories:
-  - aciform
-  - antiquarianism
-  - arrangement
-  - asmodeus
-  - broder
-  - buying
-  - championship
-  - chastening
-  - disinclination
-  - disinfection
-  - dispatch
-  - echappee
-  - enphagy
+  - Computer Science
 tags:
-  - categories
-  - edge case
+  - python
 ---
 
 This post has many categories.
