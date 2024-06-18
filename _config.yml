@@ -357,7 +357,7 @@ defaults:
       path: ""
     values:
       sidebar:
-        nav: "sidebar"
+        nav: "counts"
 date_format: "%Y-%m-%d"
 
 
