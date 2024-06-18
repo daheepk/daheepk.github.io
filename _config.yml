@@ -137,6 +137,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/dahee.pk"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@dahee-pk"
 
 sidebar:
     nav: "sidebar"
@@ -160,8 +163,11 @@ footer:
       icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "Instagram"
-      icon: "https://instagram.com/dahee.pk"
-      # url:
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/dahee.pk"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@dahee-pk"
 
 
 # Reading Files
@@ -327,6 +333,9 @@ defaults:
       share: false
       related: true
       show_date: true
+      toc: true
+      toc_sticky: true
+      toc_label: "목차" 
   # _pages:
   - scope:
       path: ""

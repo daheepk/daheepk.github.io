@@ -26,10 +26,17 @@ sidebar:
         url: /categories/computer-science/
         category: "Computer Science"
         grandchildren:
-          - title: "- Algorithm & Data Structure"
-            url: /categories/computer-science/algorithm-concepts/
-            category: "Algorithm Concepts"
-      - title: "Problem Solving"
+          - title: "- 네트워크"
+            url: /categories/computer-science/network/
+            category: "Network"
+          - title: "- 운영체제"
+            url: /categories/computer-science/operating-system/
+            category: "Operating System"
+          - title: "- 데이터베이스"
+            url: /categories/computer-science/database/
+            category: "Database"
+
+      - title: "알고리즘 문제풀이"
         url: /categories/problem-solving/
         category: "Problem Solving"
         grandchildren:
@@ -39,8 +46,26 @@ sidebar:
           - title: "- Java"
             url: /categories/problem-solving/java/
             category: "Java"
+  
+      - title: "독서"
+        url: /categories/book/
+        category: "Book"
+            
   - title: "Project"
     childeren:
-      - title: "Web Project"
+      - title: "- 웹 프로젝트"
         url: /categories/webproject/
         category: "Webproject"
+      - title: "- 트러블 슈팅"
+        url: /categories/trouble-shooting/
+        category: "Trouble Shooting"
+
+  - title: "Growth"
+    childeren:
+      - title: "- 교육"
+        url: /categories/education/
+        category: "Education"
+      - title: "- 회고록"
+        url: /categories/retrospection/
+        category: "Retrospection"
+
