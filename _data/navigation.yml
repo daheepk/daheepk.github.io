@@ -69,3 +69,6 @@ sidebar:
         url: /categories/retrospection/
         category: "Retrospection"
 
+counts:
+  - title: "category"
+    use: true
