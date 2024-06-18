@@ -1,7 +1,7 @@
 ---
 title: "Edge Case: Many Categories"
 categories:
-  - Computer Science
+  - computer-science
 tags:
   - python
 ---

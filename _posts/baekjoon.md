@@ -1,7 +1,7 @@
 ---
-title: "Edge Case: Nested and Mixed Lists"
+title: "백준"
 categories:
-  - Computer Science
+  - computer-sicence
 tags:
   - [python, blog]
 
@@ -9,6 +9,9 @@ tags:
 author_profile: true
 sidebar:
     nav: "sidebar"
+
+# redirect_from:
+#   - /CS/
 ---
 Nested and mixed lists are an interesting beast. It's a corner case to make sure that
 

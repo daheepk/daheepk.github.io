@@ -1,7 +1,7 @@
 ---
 title: "Edge Case: Many Tags"
 categories:
-  - Algorithm
+  - algorithm
 tags:
   - java
 ---
